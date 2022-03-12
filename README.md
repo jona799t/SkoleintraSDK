@@ -1,5 +1,5 @@
 # SkoleIntra API
-Log ind på ItsLearnings skoleintra kun ved brug af Python
+Benyt ItsLearnings skoleintra kun ved brug af Python
 
 # Installation
 ```
@@ -21,6 +21,7 @@ print(ugeplan) #Output: Ugeplanen for den uge
 
 # To Do
    - Flere funktioner
+   - Understøt mere end elever
 
 # Dokumentation
 Kommer snart!
