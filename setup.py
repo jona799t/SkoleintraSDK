@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 from pathlib import Path
 
-VERSION = '0.0.1'
-DESCRIPTION = 'Log ind på alle sider som bruger skoleintra kun ved brug af python'
+VERSION = '0.0.3'
+DESCRIPTION = 'Benyt ItsLearnings skoleintra kun ved brug af Python'
 long_description = (Path(__file__).parent / "README.md").read_text()
 
 # Setting up
